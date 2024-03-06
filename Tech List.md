@@ -25,13 +25,13 @@
 2. ﻿[Strapi](https://strapi.io/) : Open Source, self/cloud hosted, headless CMS built as a Nodejs API.﻿
 3. ﻿[Contentful](https://www.contentful.com/) : Cloud hosted Headless CMS:
 4. ﻿[Sanity](https://www.sanity.io/) : Cloud hosted headless CMS built with GraphQL endpoints.
-**CMS-like Library:** ﻿[GrapeJS](https://grapesjs.com/), ﻿[Builder.io](https://builder.io/)﻿
+5. **CMS-like Library:** ﻿[GrapeJS](https://grapesjs.com/), ﻿[Builder.io](https://builder.io/)﻿
 
 ## Collaborative Editors
 1. ﻿[Eraser](https://eraser.io/)
 2. ﻿[Excalidraw](https://excalidraw.com/)
 3. ﻿[Miro Board](https://miro.com/)
-**Special mention:** [Obsidian](https://obsidian.md/)
+4. **Special mention:** [Obsidian](https://obsidian.md/)
 
 ## Authentication
 1. [Lucia](https://lucia-auth.com/)
